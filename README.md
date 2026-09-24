@@ -97,6 +97,4 @@ both fitting and checkpoint selection.
 Creative Commons Attribution 4.0 International (CC BY 4.0). See `LICENSE`.
 If you use this dataset, please cite the article above.
 
-## Funding
 
-[待填：國科會計畫編號]
