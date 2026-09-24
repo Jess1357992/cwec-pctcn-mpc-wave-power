@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: "If you use this dataset, these models or this code, please cite both the article and this archived record."
+title: "CWEC-PC-TCN-MPC: spectrum-driven wave power realizations, physics-conditioned forecasting models and hard-constrained flywheel control benchmarks"
+abstract: >-
+  Synthesized electrical-power realizations for a breakwater-integrated coastal wave energy
+  converter with a tapered collection channel, generated from a Pierson-Moskowitz spectrum
+  with independent random phases and a wave-to-wire coefficient calibrated once at a baseline
+  sea state and then held fixed. The record also contains the trained physics-conditioned
+  temporal convolutional network and its neural baselines, the hard-constrained flywheel
+  model predictive controller, and the scripts that reproduce every figure and table of the
+  accompanying article.
+type: dataset
+version: "1.0.0"
+date-released: "2026-09-24"
+license: CC-BY-4.0
+keywords:
+  - coastal wave energy converter
+  - wave-power forecasting
+  - temporal convolutional network
+  - feature-wise linear modulation
+  - flywheel energy storage
+  - model predictive control
+  - power smoothing
+authors:
+  - family-names: Ou
+    given-names: Ting-Chia
+    affiliation: "National Cheng Kung University"
+    email: outc@gs.ncku.edu.tw
+  - family-names: Chen
+    given-names: Yu-Tung
+    affiliation: "National Cheng Kung University"
+  - family-names: Ju
+    given-names: Zhi-Chin
+    affiliation: "National Cheng Kung University"
+  - family-names: Luo
+    given-names: Sheng-Yu
+    affiliation: "National Cheng Kung University"
+preferred-citation:
+  type: article
+  title: >-
+    Linking channel resonance to forecast-assisted power smoothing in a coastal wave energy
+    converter with flywheel energy storage
+  journal: "Ocean Engineering"
+  year: 2026
+  authors:
+    - family-names: Ou
+      given-names: Ting-Chia
+    - family-names: Chen
+      given-names: Yu-Tung
+    - family-names: Ju
+      given-names: Zhi-Chin
+    - family-names: Luo
+      given-names: Sheng-Yu
